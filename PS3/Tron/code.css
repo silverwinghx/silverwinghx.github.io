@@ -1,0 +1,9 @@
+/*BEGIN PS3 Controller Styling*/
+.controller.ps {
+    background: url(https://raw.githubusercontent.com/VideoGameRoulette/PS3-Controller/master/Tron/basecp.png);
+    height: 558px;
+    width: 784px;
+    /*    margin-left: -392px;
+        margin-top: -259px;*/
+}
+/*END PS3 Controller Styling*/
