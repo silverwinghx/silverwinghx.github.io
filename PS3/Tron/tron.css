@@ -1,6 +1,6 @@
 /*BEGIN PS3 Controller Styling*/
 .controller.custom {
-    background: url(baseV2.png);
+    background: url(base.png);
     height: 558px;
     width: 784px;
     /*    margin-left: -392px;
@@ -260,4 +260,5 @@
 }
 
 /*END PS3 Controller Styling*/
+
 
